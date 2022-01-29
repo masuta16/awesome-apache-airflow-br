@@ -55,4 +55,7 @@ Blog descrevendo como configurar [Mesos](http://mesos.apache.org/) para executar
 Apache Airflow como um serviço no Kubernetes. Para maiores informações visite https://www.astronomer.io.
 - [Imagem Docker Bitnami Airflow ](https://github.com/bitnami/bitnami-docker-airflow) - Uma imagem docker segura e atualizada para Airflow fornecida por Bitnami
 - [Imagem Docker de Agendador do Bitnami Airflow ](https://github.com/bitnami/bitnami-docker-airflow-scheduler) - Uma imagem docker segura e atualizada para o agendador de tarefas do Airflow fornecida por Bitnami
- 
+- [Bitnami Airflow Worker Docker image](https://github.com/bitnami/bitnami-docker-airflow-worker) - Uma imagem segura e atualizada para o Airflow Worker fornecida pela Bitnami. Um deployment com CeleryExecutor esta disponivel [aqui](https://github.com/bitnami/bitnami-docker-airflow-worker/blob/master/docker-compose.yml).
+- [Distribuição & deploy no Apache Airflow via arquivos Python PEX](https://github.com/msumit/airflow-pex) - Repositorio exemplo com passos para distribuir e fazer o deploy do Apache Airflow com arquivos PEX.
+- [Introduzindo KEDA para o Airflow](https://www.astronomer.io/blog/the-keda-autoscaler/) - Como usar o KEDA para habilitar workers celery baseados no armazenamento de dados da base de metadados do Airflow.
+- [Airflow-Component](https://github.com/noelmcloughlin/airflow-component#lightweight-federated-apache-airflow-installer) - Instalador leve da arquitetura  de referencia federated Airflow-Airflow (RabbitMQ) nos nós calculados.
