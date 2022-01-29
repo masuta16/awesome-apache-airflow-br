@@ -55,4 +55,4 @@ Blog descrevendo como configurar [Mesos](http://mesos.apache.org/) para executar
 Apache Airflow como um serviço no Kubernetes. Para maiores informações visite https://www.astronomer.io.
 - [Imagem Docker Bitnami Airflow ](https://github.com/bitnami/bitnami-docker-airflow) - Uma imagem docker segura e atualizada para Airflow fornecida por Bitnami
 - [Imagem Docker de Agendador do Bitnami Airflow ](https://github.com/bitnami/bitnami-docker-airflow-scheduler) - Uma imagem docker segura e atualizada para o agendador de tarefas do Airflow fornecida por Bitnami
-- 
+ 
