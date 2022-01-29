@@ -44,3 +44,10 @@ uma imagem Docker muito bem planejada que tem chegado como base para muitas inst
 - [kube-airflow](https://github.com/mumoshu/kube-airflow) - Esse repositorio contem uma imagem Docker Airflow (que parece ter sido baseada no trabalho do Puckel) e a definição recente do serviço Kubernetes. O repositorio do usuario [mumoshu](https://github.com/mumoshu) não foi recentemente atualizado mas foram feitos muitos forks que podem ser baseados em mais releases recentes
 - [airflow-on-kubernetes](https://github.com/rolanddb/airflow-on-kubernetes) -
 Um guia de todas referencias relevantes, scripts e projetos que se relacionam para executar Airflow no Kubernetes.
+
+- [airflow-k8s-executor-on-GKE](https://github.com/EamonKeane/airflow-GKE-k8sExecutor-helm) - A detailed tutorial to get a scalable, low maintenance airflow kubernetes executor environment deployed on [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) with [helm](https://helm.sh/).
+Um tutorial para ter um executor do airflow no ambiente do kubernetes para ser feito o deploy na [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/) com [helm](https://helm.sh/).
+- [airflow-cookbook](https://github.com/bahchis/airflow-cookbook) - Receitas de como fazer o deploy do Airflow
+- [Executando Airflow com Apache Mesos](http://agrajmangal.in/blog/big-data/running-airflow-on-top-of-apache-mesos/) - 
+Blog descrevendo como configurar [Mesos](http://mesos.apache.org/) para executar todos os componentes do Airflow. 
+- [Integrando Apache Airflow com Apache Ambari ](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173) - [Mykola Mykhalov](https://www.linkedin.com/in/mykola-mykhalov-9079a8107/) explica como usar o [Apache Ambari](https://ambari.apache.org/) para configurar e fazer o deploy de uma instacia do Airflow.
