@@ -102,4 +102,16 @@ Uma curta descrição dos passos feitos para uma instancia de tarefas para o pro
 - [Lições aprendidas no Airflow-ing](https://medium.com/@nehiljain/lessons-learnt-while-airflow-ing-32d3b7fc3fbf) e [Airflow part 2: lições aprendidas](https://medium.com/snaptravel/airflow-part-2-lessons-learned-793fa3c0841e) - [Nehil Jain](https://twitter.com/nehiljain) escreveu uma serie de duas partes que cobre o valor dos agendadores de workflow, algumas boas praticas e pontos que ele encontra enquanto esta trabalhando com Airflow. O [segundo artigo](https://medium.com/snaptravel/airflow-part-2-lessons-learned-793fa3c0841e) em particular inclui muitas dicas de produção.
 - [Porque Robinhood usa Airflow](https://robinhood.engineering/why-robinhood-uses-airflow-aed13a9a90c8) - [Vineet Goel](https://twitter.com/vineetik) explica porque uma plataforma de troca financeira [Robinhood](https://robinhood.com/) começou com Airflow sobre work schedulers alternativos.
 - [O que nos aprendemos migrando de Cron para Airflow](https://medium.com/videoamp/what-we-learned-migrating-off-cron-to-airflow-b391841a0da4) - [Katie Macias](https://medium.com/@katiemacias) descreve a jornada do engenheiro de dados [VideoAmp](https://www.videoamp.com/) de cron para Airflow.
+- [Under the Hood: Construindo AIR em Qubole](https://www.qubole.com/blog/hood-building-air-qubole/) - [Sreenath Kamath](https://www.linkedin.com/in/sreenath-kamath-66a1b970/) e [Rajat Venkatesh](https://twitter.com/vrajat) escrevem sobre construir a [Qubole](https://www.qubole.com/)'s [plataforma de descoberta de dados insights e recomendações](https://www.qubole.com/blog/building-qdsair-infrastructure/) sobre o Airflow.
+  Airflow porque não esta funcionando 
+- [Airflow: Why is nothing working? - TL;DR Airflow’s SubDagOperator causes deadlocks](https://medium.com/bluecore-engineering/airflow-why-is-nothing-working-f705eb6b7b04) by [Jessica Laughlin](https://twitter.com/thepressofjess) - Se aprofunde no conceito de solução de problemas com a DAG do Airflow com boas dicas de como diagnosticar problemas.
+  
+- [Apache Airflow como um agendador externo para sistemas distribuidos](https://medium.com/@rako/apache-airflow-as-an-external-scheduler-for-distributed-systems-53b7354d3e48) - [Arunkumar](https://medium.com/@rako) sugere usar Airflow como um agendador externo simples para um sistema distribuido.
+
+- [Como Sift treina milhares de modelos usando o Apache Airflow](https://engineering.siftscience.com/sift-trains-thousands-models-using-apache-airflow/) - Resumo da estrategia de deployment da [Sift Science](https://siftscience.com/)para as pipelines de modelos de machine learning.
+
+
+- [Apache Airflow no Pandora](https://engineering.pandora.com/apache-airflow-at-pandora-1d7a844d68ee) - [Ace Haidrey](https://www.linkedin.com/in/acehaidrey/) discute porque Pandora escolheu Airflow e oferece um resumo de seu deployment e a infraestrutura por tras disso.
+ 
+- [ Lições da frente de engenharia de dados em Chicago com Airflow](https://medium.com/stanton-ventures-insights/airflow-lessons-from-the-data-engineering-front-in-chicago-9489e6ad5c3d) - [Alison Stanton](https://twitter.com/alison985) oferece uma lista de dicas de como evitar pegadinhas nos jobs do Airflow.
 
