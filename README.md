@@ -9,9 +9,9 @@ Por favor sinta-se livre para contribuir com qualquer item que voce gostaria de 
 - [Links Essenciais](#links-essenciais)
 - [Soluções para deploy no Airflow](#soluções-para-deploy-no-Airflow)
 - [Introduções e tutoriais](#introduções-e-tutoriais)
-<!-- - [Videos da conferencia Airflow Summit](#airflow-summit-2020-videos)
+<!-- - [Videos da conferencia Airflow Summit](#airflow-summit-2020-videos) -->
 - [Boas praticas, lições aprendidas e bons usos de casos](#best-practices-lessons-learned-and-cool-use-cases)
-- [Livros, blogs, podcasts e mais](#books-blogs-podcasts-and-such)
+<!-- - [Livros, blogs, podcasts e mais](#books-blogs-podcasts-and-such)
 - [Apresentação de videos online](#slide-deck-presentations-and-online-videos)
 - [Bibliotecas, Hooks, Utilitarios](#libraries-hooks-utilities)
 - [Meetups](#meetups)
@@ -85,7 +85,7 @@ Uma curta descrição dos passos feitos para uma instancia de tarefas para o pro
 - [Como desenvolver um pipeline de dados no Airflow por teste TDD(test-driven development)](https://blog.magrathealabs.com/how-to-develop-data-pipeline-in-airflow-through-tdd-test-driven-development-c3333439f358) -Aprenda como construir um pipeline de dados usando TDD passo a passo e no fim como configurar um simples workflow CLI usando Github actions.
 ## Boas praticas, lições aprendidas e bons usos de caso
 
-- [Gerenciamento de pacotes de Python com DAG do Airflow](https://www.youtube.com/watch?v=9pykChPp-X4&t=121s) - Gerenciar pacodes Python com mais de 100 dependencias em DAGs pode se tornar trabalhoso. É dificil rastrear quais pacotes são usado para cada DAG, e mais dificil limpar durante a remoção ou atualização da DAG. Aprenda como o KubernetesPodOperator e o DockerOperator pode consertar isso.
+- [Gerenciamento de pacotes de Python com DAG do Airflow](https://www.youtube.com/watch?v=9pykChPp-X4&t=121s) - Gerenciar pacotes Python com mais de 100 dependencias em DAGs pode se tornar trabalhoso. É dificil rastrear quais pacotes são usado para cada DAG, e mais dificil limpar durante a remoção ou atualização da DAG. Aprenda como o KubernetesPodOperator e o DockerOperator pode consertar isso.
 - [Gerenciamento de Dag do Airflow & versionamento](https://youtu.be/a-4yRne3ba4) - Gestione DAGs eficientemente com o processo de lançamento usando Git e submodulos
 - [Testando no Airflow parte 2](https://medium.com/@chandukavar/testing-in-airflow-part-2-integration-tests-and-end-to-end-pipeline-tests-af0555cd1a82) - [Chandu Kavar](https://twitter.com/chandukavar) e [Sarang Shinde](https://www.linkedin.com/in/sarang-shinde-219a4873/) explicam testes de integração e testes end to end para pipeline.
 - [Atualizando e escalando Airflow em Robinhood](https://robinhood.engineering/upgrading-scaling-airflow-at-robinhood-5b625dfaa2ee) - [Abishek Ray](https://www.linkedin.com/in/abhishek-ray-29210145/) descreve como Robinhood abordou o upgrade de sua produção Airflow enquanto minimizava o tempo de inatividade.
