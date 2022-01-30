@@ -20,7 +20,7 @@ Por favor sinta-se livre para contribuir com qualquer item que você gostaria de
 - [Non-English resources](#non-english-resources) -->
 ## Links Essenciais
 - [Codigo Fonte](https://github.com/apache/airflow/) (latest stable release [1.10.12](https://github.com/apache/airflow/tree/1.10.12))
-- [Documentação](https://airflow.apache.org/) (also the official website)
+- [Documentação](https://airflow.apache.org/) (tambem o website oficial)
 - [Pagina do confluence](https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+Home)
 - [![Twitter Follow](https://img.shields.io/twitter/follow/apacheairflow?style=social)](https://twitter.com/ApacheAirflow)
 - [Area de trabalho no Slack ](https://apache-airflow-slack.herokuapp.com/)
