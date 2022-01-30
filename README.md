@@ -7,8 +7,8 @@ Por favor sinta-se livre para contribuir com qualquer item que voce gostaria de 
 
 ## Conteúdo (Ingles)
 - [Links Essenciais](#links-essenciais)
-- [Soluções para deploy no Airflow](#soluções-de-deployment-do-Airflow)
-- [Introdução e tutoriais](#introdução-e-tutoriais)
+- [Soluções para deploy no Airflow](#soluções-para-deploy-no-Airflow)
+- [Introduções e tutoriais](#introduções-e-tutoriais)
 <!-- - [Videos da conferencia Airflow Summit](#airflow-summit-2020-videos)
 - [Boas praticas, lições aprendidas e bons usos de casos](#best-practices-lessons-learned-and-cool-use-cases)
 - [Livros, blogs, podcasts e mais](#books-blogs-podcasts-and-such)
